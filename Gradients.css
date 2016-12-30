@@ -1,0 +1,100 @@
+
+
+
+/* BACKGROUNDS - GRADIENT */
+.w3-gra-ocean {
+    background-image: -webkit-linear-gradient(45deg, #2e3192, #1bffff);
+    background-image: linear-gradient(45deg, #2e3192, #1bffff);
+}
+.w3-gra-granat {
+    background-image: -webkit-linear-gradient(45deg, #d4145a, #fbb03b);
+    background-image: linear-gradient(45deg, #d4145a, #fbb03b);
+}
+.w3-gra-lime {
+    background-image: -webkit-linear-gradient(45deg, #009245, #fcee21);
+    background-image: linear-gradient(45deg, #009245, #fcee21);
+}
+.w3-gra-purple {
+    background-image: -webkit-linear-gradient(45deg, #662d8c, #ed1e79);
+    background-image: linear-gradient(45deg, #662d8c, #ed1e79);
+}
+.w3-gra-dark-purple {
+    background-image: -webkit-linear-gradient(45deg, #312a6c, #852d91);
+    background-image: linear-gradient(45deg, #312a6c, #852d91);
+}
+.w3-gra-papaya {
+    background-image: -webkit-linear-gradient(45deg, #ed1c24, #fcee21);
+    background-image: linear-gradient(45deg, #ed1c24, #fcee21);
+}
+.w3-gra-ultram {
+    background-image: -webkit-linear-gradient(45deg, #00a8c5, #ffff7e);
+    background-image: linear-gradient(45deg, #00a8c5, #ffff7e);
+}
+.w3-gra-pink {
+    background-image: -webkit-linear-gradient(45deg, #d74177, #ffe98a);
+    background-image: linear-gradient(45deg, #d74177, #ffe98a);
+}
+.w3-gra-lemon {
+    background-image: -webkit-linear-gradient(45deg, #fb872b, #d9e021);
+    background-image: linear-gradient(45deg, #fb872b, #d9e021);
+}
+.w3-gra-green {
+    background-image: -webkit-linear-gradient(45deg, #009e00, #ffff96);
+    background-image: linear-gradient(45deg, #009e00, #ffff96);
+}
+.w3-gra-mystic {
+    background-image: -webkit-linear-gradient(45deg, #b066fe, #63e2ff);
+    background-image: linear-gradient(45deg, #b066fe, #63e2ff);
+}
+.w3-gra-silver {
+    background-image: -webkit-linear-gradient(45deg, gray, #e6e6e6);
+    background-image: linear-gradient(45deg, gray, #e6e6e6);
+}
+.w3-gra-neon {
+    background-image: -webkit-linear-gradient(45deg, #00ffa1, aqua);
+    background-image: linear-gradient(45deg, #00ffa1, aqua);
+}
+.w3-gra-berry {
+    background-image: -webkit-linear-gradient(45deg, #8e78ff, #ff7d78);
+    background-image: linear-gradient(45deg, #8e78ff, #ff7d78);
+}
+.w3-gra-dark-ocean {
+    background-image: -webkit-linear-gradient(45deg, #00537e, #136d7e 33%, #3aa17e);
+    background-image: linear-gradient(45deg, #00537e, #136d7e 33%, #3aa17e);
+}
+.w3-gra-candy {
+    background-image: -webkit-linear-gradient(45deg, #fca5f1, #b5ffff);
+    background-image: linear-gradient(45deg, #fca5f1, #b5ffff);
+}
+.w3-gra-pixie {
+    background-image: -webkit-linear-gradient(45deg, #d585ff, #0fe);
+    background-image: linear-gradient(45deg, #d585ff, #0fe);
+}
+.w3-gra-peach {
+    background-image: -webkit-linear-gradient(45deg, #f24645, #ebc08d);
+    background-image: linear-gradient(45deg, #f24645, #ebc08d);
+}
+.w3-gra-dream {
+    background-image: -webkit-linear-gradient(45deg, #3a3897, #a3a1ff);
+    background-image: linear-gradient(45deg, #3a3897, #a3a1ff);
+}
+.w3-gra-firebrick {
+    background-image: -webkit-linear-gradient(45deg, #45145a, #ff5300);
+    background-image: linear-gradient(45deg, #45145a, #ff5300);
+}
+.w3-gra-iron {
+    background-image: -webkit-linear-gradient(45deg, #333, #5a5454);
+    background-image: linear-gradient(45deg, #333, #5a5454);
+}
+.w3-gra-deep-sea {
+    background-image: -webkit-linear-gradient(45deg, #4f00bc, #29abe2);
+    background-image: linear-gradient(45deg, #4f00bc, #29abe2);
+}
+.w3-gra-beach {
+    background-image: -webkit-linear-gradient(45deg, #00b7ff, #ffffc7);
+    background-image: linear-gradient(45deg, #00b7ff, #ffffc7);
+}
+.w3-gra-delight {
+    background-image: -webkit-linear-gradient(45deg, #93278f, #00a99d);
+    background-image: linear-gradient(45deg, #93278f, #00a99d);
+}
