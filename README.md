@@ -1,11 +1,9 @@
 ## Это CSS-KIT 
-#### Fonts, JQ, W3.css, Bootstrap links and info
+#### Fonts, JQ, W3.css, Bootstrap, Gradients and other. 
 
-### Jquery cdn
-https://cdnjs.com/libraries/jquery/
-
-### W3.css
-https://www.w3schools.com/lib/w3.css
+### [Jquery](https://cdnjs.com/libraries/jquery/)
+### [W3.css](https://www.w3schools.com/lib/w3.css)
+### [Gradients.io](http://gradients.io/)
 
 ### Bootstrap
 
