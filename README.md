@@ -1,4 +1,4 @@
-## Это CSS-KIT 
+## CSS-KIT 
 #### Fonts, JQ, W3.css, Bootstrap, Gradients and other. 
 
 ##### [Jquery](https://cdnjs.com/libraries/jquery/)
